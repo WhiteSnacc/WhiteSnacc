@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(im newbie)
-- 😄 Pronouns: Him
-- ⚡ Fun fact: Im minor
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Garlic suck, onion better >.<
 
 <!---
 WhiteSnacc/WhiteSnacc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
